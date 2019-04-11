@@ -1,0 +1,11 @@
+C:\Users\Alizamin\source\repos\Bus_Application\Bus_Application\bin\Debug\Bus_Application.exe.config
+C:\Users\Alizamin\source\repos\Bus_Application\Bus_Application\bin\Debug\Bus_Application.exe
+C:\Users\Alizamin\source\repos\Bus_Application\Bus_Application\bin\Debug\Bus_Application.pdb
+C:\Users\Alizamin\source\repos\Bus_Application\Bus_Application\obj\Debug\Bus_Application.csprojAssemblyReference.cache
+C:\Users\Alizamin\source\repos\Bus_Application\Bus_Application\obj\Debug\Bus_Application.Form1.resources
+C:\Users\Alizamin\source\repos\Bus_Application\Bus_Application\obj\Debug\Bus_Application.Properties.Resources.resources
+C:\Users\Alizamin\source\repos\Bus_Application\Bus_Application\obj\Debug\Bus_Application.RegisterForm.resources
+C:\Users\Alizamin\source\repos\Bus_Application\Bus_Application\obj\Debug\Bus_Application.csproj.GenerateResource.cache
+C:\Users\Alizamin\source\repos\Bus_Application\Bus_Application\obj\Debug\Bus_Application.csproj.CoreCompileInputs.cache
+C:\Users\Alizamin\source\repos\Bus_Application\Bus_Application\obj\Debug\Bus_Application.exe
+C:\Users\Alizamin\source\repos\Bus_Application\Bus_Application\obj\Debug\Bus_Application.pdb
